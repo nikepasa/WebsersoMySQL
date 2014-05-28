@@ -1,0 +1,314 @@
+Destino: 1adriatico
+Icono: 
+Oferta: 1adriatico1
+Mapa: adriatico/cruc1/cruc1_mapaPeq.jpg
+Portada: adriatico/cruc1/msc-fantasia.jpg
+BajoTitulo: adriatico/cruc1/cruc1_mapa.jpg
+Sidebar: im_sidebar/cruc_adria_1.jpg
+Descriptivo: adriatico/cruc1/cam1.jpg
+Descriptivo: adriatico/cruc1/cam2.jpg
+Descriptivo: adriatico/cruc1/cam3.jpg
+Descriptivo: adriatico/cruc1/cam4.jpg
+Descriptivo: adriatico/cruc1/1.jpg
+Descriptivo: adriatico/cruc1/2.jpg
+Descriptivo: adriatico/cruc1/3.jpg
+Descriptivo: adriatico/cruc1/4.jpg
+Descriptivo: adriatico/cruc1/5.jpg
+Descriptivo: adriatico/cruc1/6.jpg
+
+Destino: 1balticas
+Icono: 
+Oferta: 1balticas1
+Mapa: balticas/cruc1/cruc1_mapaPeq.jpg
+Portada: balticas/cruc1/Buque_Empress.jpg
+BajoTitulo: balticas/cruc1/cruc1_mapa.jpg
+Descriptivo: balticas/cruc1/cam1.jpg
+Descriptivo: balticas/cruc1/cam2.jpg
+Descriptivo: balticas/cruc1/cam3.jpg
+Oferta: 1balticas2
+Mapa: balticas/cruc2/cruc1_mapaPeq.jpg
+Portada: balticas/cruc2/norwegian-star.jpg
+BajoTitulo: balticas/cruc2/cruc1_mapa.jpg
+Sidebar: im_sidebar/cruc_balt_1.jpg
+Descriptivo: balticas/cruc2/cam1.jpg
+Descriptivo: balticas/cruc2/cam2.jpg
+Descriptivo: balticas/cruc2/cam3.jpg
+Descriptivo: balticas/cruc2/cam4.jpg
+Descriptivo: balticas/cruc2/norwegian-star2.jpg
+Descriptivo: balticas/cruc2/norwegian-star3.jpg
+Descriptivo: balticas/cruc2/norwegian-star4.jpg
+Descriptivo: balticas/cruc2/norwegian-star5.jpg
+Descriptivo: balticas/cruc2/norwegian-star6.jpg
+Descriptivo: balticas/cruc2/norwegian-star7.jpg
+Descriptivo: balticas/cruc2/norwegian-star8.jpg
+Descriptivo: balticas/cruc2/norwegian-star9.jpg
+
+Destino: 1caribe
+Icono: ofertas/1.jpg
+Oferta: 1caribe1
+Mapa: caribe/cruc1/cruc1_mapaPeq.jpg
+Portada: caribe/cruc1/allure-of-the-seas.jpg
+BajoTitulo: caribe/cruc1/cruc1_mapa.jpg
+Sidebar: im_sidebar/cruc_caribe_1.jpg
+Descriptivo: caribe/cruc1/cam1.jpg
+Descriptivo: caribe/cruc1/cam2.jpg
+Descriptivo: caribe/cruc1/cam3.jpg
+Descriptivo: caribe/cruc1/cam4.jpg
+Descriptivo: caribe/cruc1/1.jpg
+Descriptivo: caribe/cruc1/2.jpg
+Descriptivo: caribe/cruc1/3.jpg
+Descriptivo: caribe/cruc1/4.jpg
+Descriptivo: caribe/cruc1/6.jpg
+Descriptivo: caribe/cruc1/7.jpg
+Descriptivo: caribe/cruc1/8.jpg
+
+Destino: 1jonicas
+Icono: 
+Oferta: 1jonicas1
+Mapa: jonicas/cruc1/cruc1_mapaPeq.jpg
+Portada: jonicas/cruc1/louis-olympia.jpg
+BajoTitulo: jonicas/cruc1/cruc1_mapa.jpg
+Sidebar: im_sidebar/cruc_jon_1.jpg
+Descriptivo: jonicas/cruc1/cam1.jpg
+Descriptivo: jonicas/cruc1/cam2.jpg
+Descriptivo: jonicas/cruc1/cam3.jpg
+Descriptivo: jonicas/cruc1/cam4.jpg
+Descriptivo: jonicas/cruc1/1.jpg
+Descriptivo: jonicas/cruc1/2.jpg
+Descriptivo: jonicas/cruc1/3.jpg
+Descriptivo: jonicas/cruc1/4.jpg
+Descriptivo: jonicas/cruc1/5.jpg
+Descriptivo: jonicas/cruc1/6.jpg
+
+Destino: 1mediterraneo
+Icono: 
+Oferta: 1mediterraneo1
+Mapa: mediterraneo/cruc1/grand-holiday.png
+Portada: mediterraneo/cruc1/cruc1.jpg
+BajoTitulo: mediterraneo/cruc1/cruc1_mapa.jpg
+Descriptivo: mediterraneo/cruc1/cam1.jpg
+Descriptivo: mediterraneo/cruc1/cam2.jpg
+Descriptivo: mediterraneo/cruc1/cam3.jpg
+Oferta: 1mediterraneo2
+Mapa: mediterraneo/cruc2/cruc1_mapaPeq.jpg
+Portada: mediterraneo/cruc2/Norwegian-Jade.jpg
+BajoTitulo: mediterraneo/cruc2/cruc1_mapa.jpg
+Sidebar: im_sidebar/cruc_med_1.jpg
+Descriptivo: mediterraneo/cruc2/cam1.jpg
+Descriptivo: mediterraneo/cruc2/cam2.jpg
+Descriptivo: mediterraneo/cruc2/cam3.jpg
+Descriptivo: mediterraneo/cruc2/cam4.jpg
+
+Destino: 2baleares
+Icono: ofertas/3.jpg
+Oferta: 2baleares1
+Portada: playas/baleares/playa1/1.jpg
+BajoTitulo: playas/baleares/playa1/logo11.jpg
+Sidebar: im_sidebar/playa_baleares_1.jpg
+Descriptivo: playas/baleares/playa1/1.jpg
+Descriptivo: playas/baleares/playa1/2.jpg
+Descriptivo: playas/baleares/playa1/3.jpg
+Descriptivo: playas/baleares/playa1/4.jpg
+Descriptivo: playas/baleares/playa1/5.jpg
+Descriptivo: playas/baleares/playa1/6.jpg
+Descriptivo: playas/baleares/playa1/7.jpg
+
+
+Destino: 2blanca
+Icono: 
+Oferta: 2blanca1
+Portada: playas/blanca/playa1/1.jpg
+BajoTitulo: playas/blanca/playa1/logo11.png
+Sidebar: im_sidebar/playa_blanca_1.jpg
+Descriptivo: playas/blanca/playa1/1.jpg
+Descriptivo: playas/blanca/playa1/2.jpg
+Descriptivo: playas/blanca/playa1/3.jpg
+Descriptivo: playas/blanca/playa1/4.jpg
+Descriptivo: playas/blanca/playa1/5.jpg
+Descriptivo: playas/blanca/playa1/6.jpg
+Descriptivo: playas/blanca/playa1/7.jpg
+
+Destino: 2dorada
+Icono: 
+Oferta: 2dorada1
+Portada: playas/dorada/playa1/1.jpg
+BajoTitulo: playas/dorada/playa1/logo11.jpg
+Sidebar: im_sidebar/playa_dorada_1.jpg
+Descriptivo: playas/dorada/playa1/1.jpg
+Descriptivo: playas/dorada/playa1/2.jpg
+Descriptivo: playas/dorada/playa1/3.jpg
+Descriptivo: playas/dorada/playa1/4.jpg
+Descriptivo: playas/dorada/playa1/5.jpg
+Descriptivo: playas/dorada/playa1/6.jpg
+Descriptivo: playas/dorada/playa1/7.jpg
+
+Destino: 2luz
+Icono: 
+Oferta: 2luz1
+Portada: playas/luz/playa1/1.jpg
+BajoTitulo: playas/luz/playa1/logo11.jpg
+Sidebar: im_sidebar/playa_luz_1.jpg
+Descriptivo: playas/luz/playa1/1.jpg
+Descriptivo: playas/luz/playa1/2.jpg
+Descriptivo: playas/luz/playa1/3.jpg
+Descriptivo: playas/luz/playa1/4.jpg
+Descriptivo: playas/luz/playa1/5.jpg
+Descriptivo: playas/luz/playa1/6.jpg
+Descriptivo: playas/luz/playa1/7.jpg
+
+Destino: 2sol
+Icono: ofertas/4.jpg
+Oferta: 2sol1
+Portada: playas/sol/playa1/7.jpg
+BajoTitulo: playas/sol/playa1/logo11.jpg
+Descriptivo: playas/sol/playa1/1.jpg
+Descriptivo: playas/sol/playa1/2.jpg
+Descriptivo: playas/sol/playa1/3.jpg
+Descriptivo: playas/sol/playa1/4.jpg
+Descriptivo: playas/sol/playa1/5.jpg
+Descriptivo: playas/sol/playa1/6.jpg
+Descriptivo: playas/sol/playa1/7.jpg
+Oferta: 2sol2
+Portada: playas/sol/playa2/3.jpg
+BajoTitulo: 
+Sidebar: im_sidebar/playa_sol_1.jpg
+Descriptivo: playas/sol/playa2/1.jpg
+Descriptivo: playas/sol/playa2/2.jpg
+Descriptivo: playas/sol/playa2/3.jpg
+Descriptivo: playas/sol/playa2/4.jpg
+Descriptivo: playas/sol/playa2/5.jpg
+Descriptivo: playas/sol/playa2/6.jpg
+Descriptivo: playas/sol/playa2/7.jpg
+Descriptivo: playas/sol/playa2/8.jpg
+
+Destino: 3andalucia
+Icono: ofertas/2.jpg
+Icono2: cultura-22-andalucia-alhambra_logo.jpg
+Portada: 
+BajoTitulo: 22-andalucia-1.jpg
+Sidebar: im_sidebar/cul_andalucia.jpg
+Descriptivo: 22-andalucia-2.jpg
+Descriptivo: 22-andalucia-3.jpg
+Descriptivo: 22-andalucia-4.jpg
+Descriptivo: 22-andalucia-5.jpg
+Descriptivo: 22-andalucia-6.jpg
+Descriptivo: 22-andalucia-7.jpg
+
+Destino: 3madrid
+Icono: cultural-21-madrid-beartree_logo.jpg
+Portada: 
+BajoTitulo: 
+Sidebar: im_sidebar/cul_madrid.jpg
+Descriptivo: 
+
+Destino: 3romanico
+Icono: cultura-20-romanico_logo.jpg
+Portada: 
+BajoTitulo: 
+Sidebar: im_sidebar/cul_romanico.jpg
+Descriptivo: 
+
+Destino: 4benelux
+Icono: 31-benelux_1.jpg
+Portada: 
+BajoTitulo: europa/1-benelux-1.jpg
+Sidebar: im_sidebar/eu_benelux.jpg
+Descriptivo: europa/1-benelux-2.jpg
+Descriptivo: europa/1-benelux-3.jpg
+Descriptivo: europa/1-benelux-4.jpg
+Descriptivo: europa/1-benelux-5.jpg
+Descriptivo: europa/1-benelux-6.jpg
+Descriptivo: europa/1-benelux-7.jpg
+Descriptivo: europa/1-benelux-8.jpg
+Descriptivo: europa/1-benelux-9.jpg
+
+Destino: 4londres
+Icono: 30-londres_1.jpg
+Oferta: 4londres1
+Portada: europa/0-londres-hotel-1.jpg
+BajoTitulo: europa/0-londres-1.jpg
+Sidebar: im_sidebar/eu_londres.jpg
+Descriptivo: europa/0-londres-2.jpg
+Descriptivo: europa/0-londres-3.jpg
+Descriptivo: europa/0-londres-guardia.jpg
+Descriptivo: europa/0-londres-trafalgarsquare.jpg
+Descriptivo: europa/0-londres-oxford_st.jpg
+Descriptivo: europa/0-londres-hotel-2.jpg
+Descriptivo: europa/0-londres-hotel-3.jpg
+Descriptivo: europa/0-londres-hotel-4.jpg
+Pie: europa/0-londres-total.jpg
+
+Destino: 4roma
+Icono: 33-roma_1.jpg
+Oferta: 4roma1
+Portada: europa/3-roma-1.jpg
+BajoTitulo: europa/3-roma-2.jpg
+Sidebar: im_sidebar/eu_roma.jpg
+Descriptivo: europa/3-roma-hotel-1.jpg
+Descriptivo: europa/3-roma-hotel-2.jpg
+Descriptivo: europa/3-roma-hotel-3.jpg
+Descriptivo: europa/3-roma-hotel-4.jpg
+Descriptivo: europa/3-roma-hotel-5.jpg
+Descriptivo: europa/3-roma-hotel-6.jpg
+Descriptivo: europa/3-roma-hotel-7.jpg
+
+Destino: 4viena
+Icono: 32-viena_1.jpg
+Portada: 
+BajoTitulo: europa/2-viena-1.jpg
+Sidebar: im_sidebar/eu_viena.jpg
+Descriptivo: europa/2-viena-2.jpg
+Descriptivo: europa/2-viena-3.jpg
+Descriptivo: europa/2-viena-4.jpg
+Descriptivo: europa/2-viena-5.jpg
+
+Destino: 5groenlandia
+Icono: 41-groenlandia_1.jpg
+Oferta: 5groenlandia1
+Portada: exotico/1-groenlandia-0.jpg
+BajoTitulo: exotico/1-groenlandia-1.jpg
+Sidebar: im_sidebar/ex_groenlandia.jpg
+Descriptivo: exotico/1-groenlandia-2.jpg
+Descriptivo: exotico/1-groenlandia-3.jpg
+Descriptivo: exotico/1-groenlandia-4.jpg
+Descriptivo: exotico/1-groenlandia-5.jpg
+Descriptivo: exotico/1-groenlandia-6.jpg
+Descriptivo: exotico/1-groenlandia-7.jpg
+
+Destino: 5lesoto
+Icono: 43-lesoto_1.jpg
+Oferta: 5lesoto1
+Portada: exotico/3-lesoto-0.jpg
+BajoTitulo: exotico/3-lesoto-1.jpg
+Sidebar: im_sidebar/ex_lesoto.jpg
+Descriptivo: exotico/3-lesoto-2.jpg
+Descriptivo: exotico/3-lesoto-3.jpg
+Descriptivo: exotico/3-lesoto-4.jpg
+Descriptivo: exotico/3-lesoto-5.jpg
+Descriptivo: exotico/3-lesoto-6.jpg
+
+Destino: 5mongolia
+Icono: 42-mongolia_1.jpg
+Portada: 
+BajoTitulo: exotico/2-mongolia-1.jpg
+Sidebar: im_sidebar/ex_mongolia.jpg
+Descriptivo: exotico/2-mongolia-2.jpg
+Descriptivo: exotico/2-mongolia-3.jpg
+Descriptivo: exotico/2-mongolia-4.jpg
+Descriptivo: exotico/2-mongolia-5.jpg
+Descriptivo: exotico/2-mongolia-6.jpg
+Descriptivo: exotico/2-mongolia-7.jpg
+
+Destino: 5seychelles
+Icono: 40-seychelles_1.jpg
+Oferta: 5seychelles1
+Portada: exotico/0-seychelles-1.jpg
+BajoTitulo: exotico/0-seychelles-1.jpg
+Sidebar: im_sidebar/ex_seychelles.jpg
+Descriptivo: exotico/0-seychelles-2.jpg
+Descriptivo: exotico/0-seychelles-3.jpg
+Descriptivo: exotico/0-seychelles-4.jpg
+Descriptivo: exotico/0-seychelles-5.jpg
+Descriptivo: exotico/0-seychelles-6.jpg
+Descriptivo: exotico/0-seychelles-7.jpg
+FIN
